@@ -1,2 +1,2 @@
 # Anthony-Goodluck-
-A backend developer 
+A data analyst
